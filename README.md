@@ -1,5 +1,5 @@
 # Build a production ready PWA with Angular and Firebase
-
+https://itnext.io/build-a-production-ready-pwa-with-angular-and-firebase-8f2a69824fcc
 ![PWA LOGO](https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png)
 
 Welcome to the workshop of building a production ready Progressive Web App based on Angular, Ionic and Firebase.
